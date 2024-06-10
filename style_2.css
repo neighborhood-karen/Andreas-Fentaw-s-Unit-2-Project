@@ -1,0 +1,12 @@
+body {
+    background-color: skyblue;
+}
+
+.back_button {
+    background-color: lightblue;
+    border: 1px solid white;
+}
+
+.sun {
+    background: transparent;
+}

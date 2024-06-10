@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #ffab40;
+    margin: -50px 0%;
+    margin-left: -25px;
+    margin-right: -25px;
+    border-bottom: 15px solid darkorange;
+    border-left: 30px solid darkorange;
+    border-right: 30px solid darkorange;
+    border-top: 55px solid darkorange;
+    padding: 0.5%;
+}
+
+.house_in_hand {
+    width: 150px;
+    padding-right: 50px;
+}
+
+.navbartitle {
+    text-align: center;
+    margin: 0%;
+    font-family: 'Lucida Sans';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttongrid {
+    margin-top: 55px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.buttongrid button {
+    border: 4px solid #ccc;
+    padding: 40px;
+    padding-top: 155px;
+    padding-bottom: 155px;
+    margin-right: -70px;
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+}
