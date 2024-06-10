@@ -1,0 +1,65 @@
+.navbar {
+    background-color: skyblue;
+    margin: -50px 0%;
+    margin-left: -25px;
+    margin-right: -25px;
+    border-bottom: 15px solid rgb(60, 197, 255);
+    border-left: 30px solid rgb(60, 197, 255);
+    border-right: 30px solid rgb(60, 197, 255);
+    border-top: 55px solid rgb(60, 197, 255);
+    padding: 0.5%;
+}
+
+.navbartitle {
+    text-align: center;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbartitletxt {
+    margin: 30px;
+}
+
+.house {
+    width: 100px;
+}
+
+body {
+    background-color: skyblue;
+}
+
+.back_button {
+    background-color: lightblue;
+    border: 1px solid white;
+}
+
+.textgrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    margin-top: 60px;
+}
+
+.txtgrid p {
+    cursor: pointer;
+}
+
+.button1 {
+    padding: 150px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.button2 {
+    padding: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.buttontxt {
+    font-size: large;
+    margin-left: 110px;
+    margin-right: 110px;
+}
